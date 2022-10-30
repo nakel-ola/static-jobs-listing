@@ -25,8 +25,30 @@ Desktop Preview
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/interactive-comments-section-KIr1vBA8d5)
-- Live Site URL: [Live Site at Netlify](https://interactive-comments-section-ola.netlify.app/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/job-listings-with-filtering-i9iG2ozyUx)
+- Live Site URL: [Live Site at Netlify](https://static-jobs-listing-ola.netlify.app/)
 ## My process
 
 ### Built with
+
+- React Js
+- vitejs 
+- tailwind-css
+- Flexbox
+- Responsive Design
+- TypeScript
+- Media queries
+
+### What I learned
+
+To build app faster
+
+### Useful resources
+
+
+
+
+## Author
+
+- Github - [olamilekan21](https://github.com/olamilekan21/)
+- Frontend Mentor - [@olamilekan21](https://www.frontendmentor.io/profile/olamilekan21)
