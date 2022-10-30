@@ -26,7 +26,6 @@ const Cards = ({ filter, setFilter }: Props) => {
   let newItems = items.filter((item) => {
     let value = [item.role, item.level, ...item.languages, ...item.tools];
     if (filter.length > 0) {
-      console.log(value.every((el) => filter.includes(el)));
       if (value.some((el) => filter.includes(el))) {
         return item;
       }
